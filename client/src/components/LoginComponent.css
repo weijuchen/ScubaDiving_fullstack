@@ -1,0 +1,31 @@
+/* SignupComponent.css */
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Make sure the container covers the entire viewport */
+  /* width:70vh; */
+  background-size: cover;
+  background-repeat: no-repeat;
+   background-position: center center;
+  /* object-fit: cover; */
+
+}
+
+
+
+/* Center-align form elements */
+.login-section {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+.login-section label {
+  margin-bottom: 5px;
+}
+
+.d-grid {
+  display: flex;
+  justify-content: center;
+}

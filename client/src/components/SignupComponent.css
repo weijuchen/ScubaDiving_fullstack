@@ -1,0 +1,36 @@
+/* SignupComponent.css */
+.register-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  background-size: cover;
+  background-repeat: no-repeat;
+   background-position: center center;
+  /* object-fit: cover; */
+
+}
+
+.image-section {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 300px; /* Adjust the width of the form */
+}
+
+
+.register-section {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+.register-section label {
+  margin-bottom: 5px;
+}
+
+.d-grid {
+  display: flex;
+  justify-content: center;
+}

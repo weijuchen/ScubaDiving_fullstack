@@ -1,0 +1,17 @@
+.PackageList {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+
+.Package {
+  width: 300px; /* Adjust the width as per your requirement */
+  margin: 40px;
+  height:320px;
+}
+
+.Package img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

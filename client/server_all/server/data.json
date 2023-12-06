@@ -1,0 +1,80 @@
+[
+  {
+    "userId": 1,
+    "diveRegion": "region1",
+    "diveAreaId": 1,
+    "rating": 4.5
+  },
+  {
+    "userId": 1,
+    "diveRegion": "region1",
+    "diveAreaId": 2,
+    "rating": 4
+  },
+  {
+    "userId": 1,
+    "diveRegion": "region1",
+    "diveAreaId": 3,
+    "rating": 3.5
+  },
+  {
+    "userId": 1,
+    "diveRegion": "region1",
+    "diveAreaId": 4,
+    "rating": 3.5
+  },
+  {
+    "userId": 1,
+    "diveRegion": "region1",
+    "diveAreaId": 5,
+    "rating": 3.5
+  },
+  {
+    "userId": 1,
+    "diveRegion": "region1",
+    "diveAreaId": 6,
+    "rating": 3.5
+  },
+  {
+    "userId": 1,
+    "diveRegion": "region1",
+    "diveAreaId": 7,
+    "rating": 5
+  },
+  {
+    "userId": 1,
+    "diveRegion": "region1",
+    "diveAreaId": 8,
+    "rating": 4
+  },
+  {
+    "userId": 1,
+    "diveRegion": "region1",
+    "diveAreaId": 9,
+    "rating": 3
+  },
+  {
+    "userId": 1,
+    "diveRegion": "region1",
+    "diveAreaId": 10,
+    "rating": 3.5
+  },
+  {
+    "userId": 1,
+    "diveRegion": "region1",
+    "diveAreaId": 11,
+    "rating": 4
+  },
+  {
+    "userId": 1,
+    "diveRegion": "region1",
+    "diveAreaId": 12,
+    "rating": 3
+  },
+  {
+    "userId": 1,
+    "diveRegion": "region1",
+    "diveAreaId": 13,
+    "rating": 4.5
+  }
+]

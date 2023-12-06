@@ -1,0 +1,17 @@
+.product section {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+
+.info section {
+  width: 300px; /* Adjust the width as per your requirement */
+  margin: 40px;
+  height:320px;
+}
+
+.image section{
+  width: 50%;
+  height: 50%;
+  object-fit: cover;
+}
